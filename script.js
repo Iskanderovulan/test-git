@@ -1,2 +1,2 @@
-alert("asd");
+console.log("asds");
 const newArray = [];
