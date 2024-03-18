@@ -1,1 +1,2 @@
-console.log("hello telegram");
+alert("asd");
+const newArray = [];
